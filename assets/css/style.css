@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-outline-primary {
+    background: #f1f2f6 !important;
+    border: 1px solid #FF7538 !important;
+    color: #FF7538 !important;
+}
+
+.btn-outline-primary:hover {
+    background-color: #FF7538 !important;
+    border: 1px solid #FF7538 !important;
+    color: #fff !important;
+}
+
+.gradient-custom-2 {
+    background: url(../images/coding.jpeg);
+    background-size: cover;
+    border: 1px solid #FF7538;
+}
